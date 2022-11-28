@@ -1,6 +1,6 @@
 # PDF Reader
 
-Estecomponente permite leer archivos pdf.
+Este componente permite leer archivos pdf.
 
 ![image](https://user-images.githubusercontent.com/92064924/204400207-73c99629-9c67-4919-84fc-cd5d73abad95.png)
 
